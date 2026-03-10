@@ -61,17 +61,11 @@ Bot automation system that sends billing reminders automatically to customers.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aqilarizqizahra-lang&show_icons=true&theme=tokyonight"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aqilarizqizahra-lang&theme=tokyonight"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqilarizqizahra-lang&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 
