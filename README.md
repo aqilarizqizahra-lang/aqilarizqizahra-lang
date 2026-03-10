@@ -15,7 +15,7 @@ anw is he..my...
 - 💻 school on **Rpl SMK N 1 Slawi**
 - ⚙️ interest in **Backend Development & Automation**
 - 🗄️ working n learning on **Database & API Integration**
-- 🌱 m currently learning about **Node.js ecosystem**
+- 🌱 m currently learning a'bout **Node.js ecosystem**
 
 ---
 
@@ -54,7 +54,6 @@ Bot automation system that sends billing reminders automatically to customers.
 **Tech**
 - Node.js
 - MySQL
-- Scheduler / Cron
 - WhatsApp API
 
 ---
