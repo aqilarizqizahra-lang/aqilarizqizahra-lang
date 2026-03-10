@@ -1,21 +1,21 @@
-<h1 align="center">Hi 👋, I'm Keela. </h1>
+<h1 align="center">hey! 👋, i'm keela. </h1>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/d6/dd/0d/d6dd0d23b1fc9f1372c2d3fd3daf016c.gif" width="420"/>
 </p>
 
 <p align="center">
-Beginner developer who enjoys building useful automation and backend systems.
+anw is he..my...
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Vocational high school on **Rpl SMK N 1 Slawi**
-- ⚙️ Interested in **Backend Development & Automation**
-- 🗄️ Working with **Database & API Integration**
-- 🌱 Currently learning more about **Node.js ecosystem**
+- 💻 school on **Rpl SMK N 1 Slawi**
+- ⚙️ interest in **Backend Development & Automation**
+- 🗄️ working n learning on **Database & API Integration**
+- 🌱 m currently learning about **Node.js ecosystem**
 
 ---
 
