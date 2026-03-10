@@ -37,29 +37,11 @@ anw is he..my...
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge)
 ![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge)
 
----
-
-## 📌 Featured Project
-
-### 🤖 Reminder Billing Bot
-
-Bot automation system that sends billing reminders automatically to customers.
-
-**Features**
-- Automated reminder scheduling
-- Payment confirmation system
-- Database integration
-- Admin notification
-
-**Tech**
-- Node.js
-- MySQL
-- WhatsApp API
 
 ---
+
 
 ## 📊 GitHub Stats
-
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aqilarizqizahra-lang&theme=tokyonight"/>
