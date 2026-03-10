@@ -12,7 +12,7 @@ Beginner developer who enjoys building useful automation and backend systems.
 
 ## 🚀 About Me
 
-- 💻 Currently working on **Reminder Billing Bot**
+- 💻 Vocational high school on **Rpl SMK N 1 Slawi**
 - ⚙️ Interested in **Backend Development & Automation**
 - 🗄️ Working with **Database & API Integration**
 - 🌱 Currently learning more about **Node.js ecosystem**
